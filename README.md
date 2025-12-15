@@ -1,14 +1,14 @@
 # Printer Troubleshooting and Maintenance
 <p align="center">
-<img src="https://allthings.how/content/images/2025/02/ATH-Featured-Image--43--df16f41c2d21c1ba.png" alt="How to fix 'Printer in error state' in Windows"/>
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/1c070418-c2d6-406b-8b90-6182f7fd58a0" />
+
 </p>
 
 <h1>Real World Printer Issues and How to Resolve Them</h1>
-This is a quick and simple repository to reference whenever you come across printer issues in the real world. It will cover the most common issues you may encounter in classrooms, offices, workplaces, etc.
-
+A reference for resolving common printing problems in a Help Desk environment. Covers driver errors, hardware faults, and operational issues, emphasizing step-by-step resolution, root cause analysis, and preventative maintenance.
 <h2>Printer Offline</h2>
 
-Possible Causes or Root Issues: Network connectivity issues, incorrect default printer, outdated drivers, or paused print queue
+**Possible Causes or Root Issues:** Network connectivity issues, incorrect default printer, outdated drivers, or paused print queue
 
 <ins>Fixes:</ins>
 
@@ -95,7 +95,7 @@ The fuser assembly is malfunctioning, preventing toner from properly bonding to 
 
 <h2>Paper Jams</h2>
 
-Possible Causes or Root Issues:
+**Possible Causes or Root Issues:**
 Rollers can wear out over time (rubber degrades), become dirty, or lose traction. Using the wrong paper type or thickness can also cause jams.
 
 <ins>Fixes:</ins>
@@ -116,18 +116,3 @@ Rollers can wear out over time (rubber degrades), become dirty, or lose traction
 
 8.) Power the printer back on and print a test page to confirm the jam is resolved.
 
- <h2>Faded Print</h2>
-
-**Possible Causes or Root Issues:** Obstructed rollers, misaligned paper, paper scraps, or poor paper quality
-
-<ins>Fixes:</ins> 
-
-**1.)** Power the printer off and gently remove the jammed paper from the feeder.
-
-**2.)** Open access panels to ensure there aren't any paper scraps inside.
-
-**3.)** Gently reseat and reload the paper properly into the tray.
-
-**4.)** Check the rollers for dust buildup or debris and clean with a clean cloth.
-
-**5.)** Avoid overload or overfilling the paper tray and always use the recommended paper sizing. 
